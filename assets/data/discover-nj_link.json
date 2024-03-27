@@ -1,0 +1,79 @@
+[
+    {
+        "rating": "4.0",
+        "id": "1000002",
+        "name": "Battleship New Jersey",
+        "number_of_reviews": "19,012",
+        "room_type": "Science Museum",
+        "price": "$20+",
+        "smart_location": "Jersey City, New Jersey",
+        "town": "Camden",
+        "listing_url": "https://www.battleshipnewjersey.org/",
+        "medium_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/USS_New_Jersey_%286219214852%29.jpg",
+        "desciption": "Adventure Aquarium offers an immersive and exciting aquatic experience for visitors of all ages. From majestic sharks to playful penguins, the aquarium boasts a diverse array of marine life from around the globe. With interactive exhibits, hands-on activities, and informative presentations, guests can learn about marine conservation and the importance of protecting our oceans. Whether you're marveling at the vibrant colors of tropical fish or getting up close with gentle stingrays, a visit to Adventure Aquarium promises an unforgettable journey beneath the waves."
+    },
+    {
+        "rating": "4.9",
+        "id": "1000003",
+        "name": "Grounds for Sculptures",
+       
+       
+        "smart_location": "Paterson, New Jersey",
+        "price": "$17+",
+        "town": "Hamilton",
+        "listing_url": "https://www.groundsforsculpture.org/",
+        "medium_url": "https://www.groundsforsculpture.org/wp-content/uploads/2019/07/2249-Summer-2018-dmhphotography_1920x800_acf_cropped.jpg",
+        "host_picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US-NationalParkService-Logo.svg/1573px-US-NationalParkService-Logo.svg.png",
+        "desciption": "The Liberty Science Center offers an engaging and interactive learning experience for all ages. With captivating exhibits spanning various fields such as science, technology, engineering, and mathematics (STEM), visitors can explore and discover in an immersive environment. From hands-on experiments to awe-inspiring demonstrations, the center fosters curiosity and encourages critical thinking. Whether you're a student, a family, or simply curious about the world around you, a visit to the Liberty Science Center promises to inspire and educate in equal measure."
+    },
+    {
+        "rating": "4.1",
+        "id": "1000004",
+        "name": "Cape May Whale Watching",
+        "host_name": "Herschend Family Entertainment",
+        "host_since": "February 29, 1992",
+        "room_type": "Science Museum",
+        "number_of_reviews": "9,834",
+        "smart_location": "Camden, New Jersey",
+        "price": "$45",
+        "town": "Cape May",
+        "listing_url": "https://capemaywhalewatcher.com/",
+        "medium_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/ba/9d/52/cape-may-whale-watcher.jpg?w=1200&h=1200&s=1",
+        "host_picture_url": "https://static.wikia.nocookie.net/chuggington/images/8/80/HES_Logo_Primary_TM.jpg/revision/latest?cb=20190223182648",
+        "desciption": "Adventure Aquarium offers an immersive and exciting aquatic experience for visitors of all ages. From majestic sharks to playful penguins, the aquarium boasts a diverse array of marine life from around the globe. With interactive exhibits, hands-on activities, and informative presentations, guests can learn about marine conservation and the importance of protecting our oceans. Whether you're marveling at the vibrant colors of tropical fish or getting up close with gentle stingrays, a visit to Adventure Aquarium promises an unforgettable journey beneath the waves."
+    },
+    {
+        "rating": "3.6",
+        "id": "1000005",
+        "name": "Medieval Times",
+        "host_name": "The City of Atlantic City",
+        "host_since": "January 1, 1990",
+        "room_type": "Beach Destination",
+        "number_of_reviews": "78,096",
+        "town": "Lyndhurst",
+        "smart_location": "Atlantic City, New Jersey",
+        "price":"$40.95+",
+        "listing_url": "https://www.medievaltimes.com/lyndhurst",
+       
+        "medium_url": "https://medt-refresh.imgix.net/wp-content/uploads/2020/08/29153944/knights.png"
+        
+    },
+    {
+        "rating": "3.6",
+        "id": "1000009",
+        "name": "IPlay America",
+        "host_name": "The City of Atlantic City",
+        "host_since": "January 1, 1990",
+        "room_type": "Beach Destination",
+        "number_of_reviews": "78,096",
+        "town": "Lyndhurst",
+        "smart_location": "Atlantic City, New Jersey",
+        "price":"$40.95+",
+        "listing_url": "https://www.iplayamerica.com/?gad_source=1&gclid=CjwKCAjw5ImwBhBtEiwAFHDZx--D0yf8HH5MNEMGOB6mXlFe29x1wL1mFux3ffrDQlevNN643oZGFxoCQQYQAvD_BwE",
+       
+        "medium_url": "https://www.iplayamerica.com/wp-content/uploads/kite-flyer-1.jpg"
+        
+    }
+    
+
+]

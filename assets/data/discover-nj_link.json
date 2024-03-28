@@ -9,20 +9,18 @@
         "smart_location": "Jersey City, New Jersey",
         "town": "Camden",
         "listing_url": "https://www.battleshipnewjersey.org/",
-        "medium_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/USS_New_Jersey_%286219214852%29.jpg",
+        "medium_url": "https://live.staticflickr.com/2461/3561981104_72ecf76c48_b.jpg",
         "desciption": "Adventure Aquarium offers an immersive and exciting aquatic experience for visitors of all ages. From majestic sharks to playful penguins, the aquarium boasts a diverse array of marine life from around the globe. With interactive exhibits, hands-on activities, and informative presentations, guests can learn about marine conservation and the importance of protecting our oceans. Whether you're marveling at the vibrant colors of tropical fish or getting up close with gentle stingrays, a visit to Adventure Aquarium promises an unforgettable journey beneath the waves."
     },
     {
         "rating": "4.9",
         "id": "1000003",
         "name": "Grounds for Sculptures",
-       
-       
         "smart_location": "Paterson, New Jersey",
         "price": "$17+",
         "town": "Hamilton",
         "listing_url": "https://www.groundsforsculpture.org/",
-        "medium_url": "https://www.groundsforsculpture.org/wp-content/uploads/2019/07/2249-Summer-2018-dmhphotography_1920x800_acf_cropped.jpg",
+        "medium_url": "https://images.pexels.com/photos/271160/pexels-photo-271160.jpeg",
         "host_picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US-NationalParkService-Logo.svg/1573px-US-NationalParkService-Logo.svg.png",
         "desciption": "The Liberty Science Center offers an engaging and interactive learning experience for all ages. With captivating exhibits spanning various fields such as science, technology, engineering, and mathematics (STEM), visitors can explore and discover in an immersive environment. From hands-on experiments to awe-inspiring demonstrations, the center fosters curiosity and encourages critical thinking. Whether you're a student, a family, or simply curious about the world around you, a visit to the Liberty Science Center promises to inspire and educate in equal measure."
     },
@@ -54,8 +52,7 @@
         "smart_location": "Atlantic City, New Jersey",
         "price":"$40.95+",
         "listing_url": "https://www.medievaltimes.com/lyndhurst",
-       
-        "medium_url": "https://medt-refresh.imgix.net/wp-content/uploads/2020/08/29153944/knights.png"
+        "medium_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/246161783_4312325962226770_8015588769435772334_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DBULR9MMGb8AX-XuI27&_nc_ht=scontent-lga3-1.xx&oh=00_AfAVwib-ZgczMj4QISK_X7xls5KAsH7otPrkKyrAeHY0aA&oe=66099EDA"
         
     },
     {
@@ -70,8 +67,7 @@
         "smart_location": "Atlantic City, New Jersey",
         "price":"$40.95+",
         "listing_url": "https://www.iplayamerica.com/?gad_source=1&gclid=CjwKCAjw5ImwBhBtEiwAFHDZx--D0yf8HH5MNEMGOB6mXlFe29x1wL1mFux3ffrDQlevNN643oZGFxoCQQYQAvD_BwE",
-       
-        "medium_url": "https://www.iplayamerica.com/wp-content/uploads/kite-flyer-1.jpg"
+        "medium_url": "https://live.staticflickr.com/8283/7727041256_75c3d819b5_b.jpg"
         
     }
     
